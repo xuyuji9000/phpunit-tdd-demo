@@ -6,7 +6,8 @@
             "email": "karl.yogi.xu@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+    },
     "require-dev": {
         "phpunit/phpunit": "^6.1"
     },
