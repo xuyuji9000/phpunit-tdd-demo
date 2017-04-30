@@ -1,0 +1,13 @@
+{
+    "name": "yogiman/phpunit-tdd-demo",
+    "authors": [
+        {
+            "name": "Karl Xu",
+            "email": "karl.yogi.xu@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
